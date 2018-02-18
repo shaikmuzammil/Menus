@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="wallpaper">wallpaper</string>
+    <string name="setting">setting</string>
+    <string name="bluetooth">bluetooth</string>
+    <string name="settings">Settings</string>
+</resources>
